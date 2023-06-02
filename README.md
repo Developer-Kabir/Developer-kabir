@@ -1,5 +1,7 @@
 ![Github Banner](github-banner.png)
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=developer-kabir&style=for-the-badge" /></p>
+
 ### Hi there ✋, I'm Kabir Hossain 👋
 
 
