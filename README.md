@@ -1,9 +1,9 @@
 ![Github Banner](github-banner.png)
 
 ### Hi there ✋, I'm Kabir Hossain 👋
+<hr style="width:2px;">
 
 accomplished full-stack (MERN) web application developer and WordPress developer, who constantly looks for new challenges to tackle in the real world. In addition to working with Fiverr and Upwork, Kabir is also a BBA graduate, worked on some business projects as a team leader. <br>
-
 
 :coffee: &emsp;Connect with me!
 
