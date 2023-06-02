@@ -1,4 +1,4 @@
-![Github Banner](Linkedin BAnner.png)
+![Github Banner](github-banner.png)
 
 ### Hi there 👋, I'm Kabir Hossain
 :coffee: &emsp;Connect with me!
