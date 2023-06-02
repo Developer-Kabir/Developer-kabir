@@ -1,4 +1,4 @@
-(https://media.licdn.com/dms/image/D5616AQF4DerkaKVpgQ/profile-displaybackgroundimage-shrink_350_1400/0/1665966268162?e=1691020800&v=beta&t=0YIPVmlIVvRsxoq4SPR4apo2Smea_2W1MC1NRon2ld8)
+![Github Banner](Linkedin BAnner.png)
 
 ### Hi there 👋, I'm Kabir Hossain
 :coffee: &emsp;Connect with me!
